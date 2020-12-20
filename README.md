@@ -60,6 +60,17 @@ if (isAwesome){
 }
 ```
 
+```java
+if (isAwesome){
+  return true
+}
+```
+
+```python
+if isAwesome:
+  return true
+```
+
 *This text will be italic*
 _This will also be italic_
 
